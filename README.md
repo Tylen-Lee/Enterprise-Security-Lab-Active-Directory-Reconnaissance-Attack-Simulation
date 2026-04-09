@@ -45,10 +45,12 @@ I further mapped these activities to the MITRE ATT&CK framework, linking reconna
 
 ## 📄 Lab Report
 
-Click below to view the full Cybersecurity-Virtual-Lab-Network-Security-Simulation
+Click below to view the full Enterprise-Security-Lab-Active-Directory-Reconnaissance-Attack-Simulation
 documentation:
 
-[![View Report](https://img.shields.io/badge/View-Full%20PDF-pink?style=for-the-badge🔗)](./Enterprise-Security-Lab-Active-Directory-Reconnaissance-Attack-Simulation.pdf)
+[![View Report](https://img.shields.io/badge/View-Full%20PDF-yellow?style=for-the-badge🔗)](./Enterprise-Security-Lab-Active-Directory-Reconnaissance-Attack-Simulation.pdf)
+
+<img width="853" height="499" alt="image" src="https://github.com/user-attachments/assets/2756f2dd-6cb7-4a96-8a33-ca40323fd1ff" />
 
 
 
